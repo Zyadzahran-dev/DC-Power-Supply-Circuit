@@ -1,42 +1,54 @@
-
 # DC Power Supply Circuit
 
-A practical DC power supply circuit implemented on a breadboard.
+A practical electronics project demonstrating the basic stages of converting AC power into a DC output.
 
 ## Project Overview
 
-This project demonstrates the basic stages of converting AC power into a DC output.
+This project was implemented practically on a breadboard as part of an electronics project.
 
-## Main Stages
+The circuit demonstrates the main stages of a DC power supply, including voltage transformation, AC-to-DC conversion, filtering, voltage regulation, and output indication.
 
+## Main Features
+
+- Practical breadboard implementation
+- AC-to-DC power conversion
 - Voltage transformation
-- AC-to-DC rectification
+- Rectification
 - Voltage filtering
 - Voltage regulation
-- LED output indication
-
-## Implementation
-
-The circuit was assembled and tested on a breadboard. The LED indicator turned on successfully, showing that the circuit produced an output.
+- LED output indicator
+- Circuit testing
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit diagram.jpeg)
+![Circuit Diagram](circuit%20diagram.jpeg)
 
 ## Breadboard Implementation
 
-![Breadboard Implementation](1.jpg)
-
-![Breadboard Implementation](2.jpg)
+![Breadboard Implementation](3%20%282%29.jpeg)
 
 ## Working Circuit
 
-![Working Circuit](3.jpg)
+![Working Circuit](1%20%282%29.jpeg)
+
+## Tools and Materials
+
+- Breadboard
+- Transformer
+- Electronic components
+- Connecting wires
+- LED indicator
 
 ## Skills Demonstrated
 
 - Basic electronics
-- Circuit implementation
+- Circuit analysis
 - Breadboard prototyping
 - Power supply fundamentals
+- Circuit implementation
 - Circuit testing and troubleshooting
+
+## Project Result
+
+The circuit was assembled and tested successfully. The LED indicator turned on during testing, confirming that the circuit produced an output.
+
