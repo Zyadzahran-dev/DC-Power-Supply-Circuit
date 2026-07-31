@@ -21,7 +21,7 @@ The circuit was assembled and tested on a breadboard. The LED indicator turned o
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuitdiagram.jpg)
+![Circuit Diagram](circuit diagram.jpeg)
 
 ## Breadboard Implementation
 
